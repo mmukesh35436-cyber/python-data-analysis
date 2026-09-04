@@ -65,3 +65,22 @@ The complete analysis is available in the Jupyter Notebook:
 Mukesh Singh
 
 Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analytics
+##  Project Visualizations
+
+### Sales by Product Category
+![Category Sales](images/category_sales.png)
+
+### Sales by Region
+![Region Sales](images/region_sales.png)
+
+### Sales by Product
+![Product Sales](images/product_sales.png)
+
+### Quantity vs Sales
+![Quantity vs Sales](images/quantity_vs_sales.png)
+
+### Sales Distribution
+![Sales Distribution](images/sales_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
